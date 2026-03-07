@@ -18,7 +18,7 @@ Route scRNA analysis tasks to one of two benchmark-backed methods per step, then
 - annotation: `CellTypist` vs `scANVI`
 - trajectory: `Monocle3` vs `Slingshot`
 - de: `MAST` vs `pseudobulk_edgeR_DESeq2`
-- communication: `CellChat` vs `CellPhoneDB`
+- communication: `CellChat` vs `Liana Plus`
 
 ## Core Procedure
 1. Run both candidate tools with standard defaults.
